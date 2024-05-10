@@ -1,8 +1,7 @@
 '''
 TASK-3
 Arul.P
-Implement a console-based Tic-Tac-Toe game in Python where
-two players take turns making moves.
+Implement a console-based snake game in Python 
 '''
 import tkinter
 import random
